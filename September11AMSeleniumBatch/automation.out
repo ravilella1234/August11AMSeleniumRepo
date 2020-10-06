@@ -1,0 +1,6 @@
+Properties inits..
+Launching the browser : chrome
+Navigated to url : https://www.amazon.in
+Selected the item Books By using the locator : searchDropdownBox
+Entered the test Sony by using the locator :- field-keywords
+Clicked on Searchbutton By usong locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
